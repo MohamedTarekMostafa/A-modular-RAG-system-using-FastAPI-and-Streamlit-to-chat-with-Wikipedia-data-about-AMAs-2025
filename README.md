@@ -1,4 +1,6 @@
 # 🤖 RAG Wikipedia Assistant (AMAs 2025 Edition)
+![App Screenshot](![WhatsApp Image 2025-12-29 at 2 03 45 AM](https://github.com/user-attachments/assets/d3434113-dfc7-4fff-8916-c7ccaf600585))
+
 
 A full-stack **RAG (Retrieval-Augmented Generation)** application designed to fetch, process, and answer questions about the **American Music Awards 2025** using real-time data from Wikipedia.
 
@@ -25,4 +27,5 @@ This project demonstrates a modular AI architecture that retrieves specific know
 ├── processor.py     # Data ingestion (Specifically for AMAs 2025 Wikipedia data)
 ├── ui.py            # Streamlit frontend interface
 ├── .env             # Environment variables (API Keys)
+
 └── requirements.txt  # Project dependencies
