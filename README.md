@@ -1,4 +1,4 @@
-# 🤖 RAG Wikipedia Assistant (AMAs 2025 Edition)
+#  RAG Wikipedia Assistant (AMAs 2025 Edition)
 (![WhatsApp Image 2025-12-29 at 2 03 45 AM](https://github.com/user-attachments/assets/d3434113-dfc7-4fff-8916-c7ccaf600585))
 
 
@@ -29,4 +29,5 @@ This project demonstrates a modular AI architecture that retrieves specific know
 ├── .env             # Environment variables (API Keys)
 
 └── requirements.txt  # Project dependencies
+
 
